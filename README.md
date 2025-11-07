@@ -1,4 +1,4 @@
-# Lab03-02 — Containers e Integração Contínua com Docker e GitHub Actions
+# Lab03 02 - Containers e Integração Contínua com Docker e GitHub Actions
 
 Este repositório apresenta a implementação da **Atividade II do Laboratório 03** da disciplina **Web Academy CI/CD**, com o foco em consolidar o uso de **containers Docker** e **pipelines automatizados** de integração contínua (CI) utilizando o **GitHub Actions** e o **Docker Hub**.
 
